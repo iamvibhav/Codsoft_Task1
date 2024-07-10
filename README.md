@@ -1,2 +1,2 @@
-# Codsoft_Task1
-Guess the Number Game
+# Guess the Number Game
+Made in Java
